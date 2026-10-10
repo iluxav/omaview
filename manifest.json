@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "iluxav.omaview",
+  "name": "Omaview",
+  "version": "0.1.0",
+  "author": "iluxav",
+  "license": "MIT",
+  "description": "See every workspace at once, each window drawn live where it sits. Click a window to jump to it.",
+  "kinds": ["overlay"],
+  "entryPoints": {
+    "overlay": "Overview.qml"
+  }
+}
