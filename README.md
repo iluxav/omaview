@@ -10,6 +10,8 @@ to it. It is Omarchy's take on macOS Mission Control.
 - The overview opens on the monitor you are using and shows the workspaces of
   every monitor.
 
+What it can do today and what has changed: [osfeed.dev/p/iluxav/omaview](https://osfeed.dev/p/iluxav/omaview).
+
 ## Install
 
 ```bash
